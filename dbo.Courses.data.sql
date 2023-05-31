@@ -1,0 +1,8 @@
+﻿INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (1, N'Infi Part 1', N'Jon Rambo', 1, 23)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (2, N'Computer science 1', N'Jack Knife', 1, 25)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (3, N'C#', N'Ann Random', 0, 25)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (4, N'C++', N'Marie Constant', 0, 15)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (5, N'Data Structures', N'Ion Space', 0, 26)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (6, N'Differential Equations', N'Marie Dormant', 0, 20)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (7, N'React JS', N'Angular Blazor', 1, 19)
+INSERT INTO [dbo].[Courses] ([Id], [Name], [TeacherName], [IsMandatory], [LessonsCount]) VALUES (8, N'Angular JS', N'Will Smith', 0, 19)
