@@ -1,6 +1,6 @@
 Backend project for React Online Registraion app
 
-Web API that runs operations on LocalDB ( Sql Server ) - attached mdf file.
+Web API that runs operations on LocalDB ( Sql Server ) - attached mdf file and sql scripts in root of project.
 
 Prerequisites: Visual Studio 2022 with .NET 6 and "ASP.NET and web development" (WEB API)
 
